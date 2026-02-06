@@ -1,12 +1,12 @@
-🎨 Color Palette Generator
+## 🎨 Color Palette Generator
 
-Overview:
+## Overview:
 
 Color Palette Generator is a lightweight browser-based tool that generates random color palettes for design inspiration. The project focuses on random value generation, dynamic UI updates, and visual feedback using vanilla JavaScript.
 
 This application is entirely client-side and intended as a utility-style project.
 
-Features:
+## Features:
 
 Generate random colors
 
@@ -16,7 +16,7 @@ Show corresponding hex color values
 
 Simple, clean user interface
 
-Tech Stack:
+## Tech Stack:
 
 HTML5 – structure
 
@@ -26,10 +26,9 @@ JavaScript (ES6) – randomization and DOM updates
 
 How to Run Locally
 
-Clone the repository:
+## Clone the repository:
 
 git clone https://github.com/baconlord102/color-palette-generator.git
-
 
 Navigate into the project directory
 
@@ -37,7 +36,7 @@ Open index.html in your browser
 
 No setup required.
 
-Application Logic:
+## Application Logic:
 
 Random RGB or hex values are generated programmatically
 
@@ -57,7 +56,7 @@ Visual UI feedback
 
 Mapping logic output to styled components
 
-Future Improvements:
+## Future Improvements:
 
 Lock individual colors in a palette
 
@@ -67,6 +66,6 @@ Add color harmony rules
 
 Improve accessibility and contrast checking
 
-Purpose:
+## Purpose:
 
 This project was built to explore visual rendering and randomization logic while reinforcing JavaScript fundamentals.
